@@ -23,11 +23,7 @@ py -m pytest -v
 Tests cover valid and invalid CSV marks, malformed SRNs, names with unusual
 spacing/word counts, and non-string inputs.
 
-## Evidence
-The friend reference provides test-structure guidance, but it is a different
-assignment. Capture actual screenshots from your own runs; no screenshot or
-test result is fabricated. The before-fix failure evidence must be captured
-using the original buggy `student_grades.py` from the assigned repository.
+
 
 ## Suggested commits
 ```powershell
